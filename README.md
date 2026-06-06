@@ -1,0 +1,1 @@
+# synent-task6-customer-segmentation-vanshika
