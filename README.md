@@ -1,5 +1,4 @@
 # synent-task6-customer-segmentation-vanshika
-# synent-task6-customer-segmentation-vanshika
 
 **Name:** Vanshika Jain
 
